@@ -1,5 +1,10 @@
 ## Hi there 👋
-- 🌱 I’m currently learning Web Development 
+- 🌱 I’m currently learning Web Development
+- 💻 The programming languages that I know :
+  <br>  ➡ C
+  <br>  ➡ C++
+  <br>  ➡ JS
+  <br>  ➡ React
 <!--
 **sumedha-io/sumedha-io** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
