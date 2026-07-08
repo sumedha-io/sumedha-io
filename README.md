@@ -1,6 +1,7 @@
 ## Hi there 👋
 - 🌱 I’m learning Web Development
 - 🔭 Working on DSA
+- 👩‍🎓 Pursuing Btech in CSE with Specialization in AIML
 - 💻 The programming languages that I know :
   <br>  ➡ C
   <br>  ➡ C++
