@@ -1,6 +1,6 @@
 ## Hi there 👋
 - 🌱 I’m learning Web Development
-- 🔭 Working on improving my git skills
+- 🔭 Working on DSA
 - 💻 The programming languages that I know :
   <br>  ➡ C
   <br>  ➡ C++
