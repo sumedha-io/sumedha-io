@@ -1,12 +1,13 @@
 ## Hi there 👋
+- 👩‍🎓 Pursuing Btech in CSE with Specialization in AIML
 - 🌱 I’m learning Web Development
 - 🔭 Working on DSA
-- 👩‍🎓 Pursuing Btech in CSE with Specialization in AIML
 - 💻 The programming languages that I know :
   <br>  ➡ C
   <br>  ➡ C++
   <br>  ➡ JS
   <br>  ➡ React
+- 📫 How to reach me: www.linkedin.com/in/sumedha-kulkarni-323a8538a
 <!--
 **sumedha-io/sumedha-io** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
